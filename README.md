@@ -18,6 +18,8 @@ your Metamask account
 With the contract filled with LINK, you should be able to use the functions in the contract 
 
 
+Address Provider for Goerli is 0xc4dCB5126a3AfEd129BC3668Ea19285A9f56D15D
+
 
 
 
